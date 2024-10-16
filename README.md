@@ -1,4 +1,4 @@
-# From home to university
+# Average day average student
 ## Part 1
 Wake up
 ## Part 2
